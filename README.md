@@ -22,3 +22,7 @@ In this simulation, I just ran the simulation in RUST and showed how change your
 * Second bar graph shows when participant change his mind after showed a goat
 
 * I have used a parameter to run the simulation 10000 times to validate the idea. 
+
+## Run  Simulation
+* Go to the root of the project
+* Run: `cargo build && cargo run`
